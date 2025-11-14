@@ -86,8 +86,6 @@ terraform init
 - 모듈의 `variables.tf`와 `outputs.tf`를 명확히 문서화
 - Terraform 버전과 AWS provider 버전 고정
 
-문제가 계속되면 `terraform plan`의 전체 에러 출력(복사 붙여넣기)을 여기에 붙여 주세요. 에러 메시지를 보고 구체적으로 도와드리겠습니다.
-
 ---
 
 간단한 노트: EC2 AMI 교체가 필요한 경우 `ec2/*` 내부의 AMI ID를 업데이트하세요.
