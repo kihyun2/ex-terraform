@@ -20,7 +20,7 @@
 1. 작업 디렉터리로 이동
 
 ```cmd
-cd C:\IAC\infra
+cd {path}/ex-terraform
 ```
 
 2. 초기화 및 계획 확인
